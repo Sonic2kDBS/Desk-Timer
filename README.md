@@ -19,6 +19,9 @@
 # What about Linux?
   It may also work on Linux.
 
+# No luck with compiling
+ You can download a precompiled version for Widows here [https://sourceforge.net/projects/desk-timer/](https://sourceforge.net/projects/desk-timer/)
+
 # What else?
  Currently it is in beta state. It works, but there are some things to do.
  The icon is made by myself. It is not part of the Licence but you may use it for this program.
