@@ -11,6 +11,7 @@
  You need Python 3 installed. Open a commandline and navigate to the Desk-Timer folder. There you can use the following commands:
  
  pip install pyinstaller
+ 
  pyinstaller --noconfirm --onefile --windowed --icon "./S2k_Coffee_2017.ico" --collect-all "customtkinter"  "./Desk-Timer1.11.py"
  
  Under ./dist/ you will find the compiled exe file. Copy it to a place, where it can stay.
