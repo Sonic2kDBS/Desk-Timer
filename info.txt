@@ -1,0 +1,3 @@
+Desk-Timer
+A timer for the desktop.
+Created 2023 by Sonic2k under GPLv2.
