@@ -19,7 +19,7 @@
 # What about Linux?
   It may also work on Linux.
 
-# No luck with compiling
+# No luck with compiling?
  You can download a precompiled version for Widows here [https://sourceforge.net/projects/desk-timer/](https://sourceforge.net/projects/desk-timer/)
 
 # What else?
