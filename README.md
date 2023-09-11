@@ -1,4 +1,4 @@
- ![./Screenshot_Desk-Timer_2023.png =x50%](Screenshot_Desk-Timer_2023.png "Screenshot_Desk-Timer_2023.png")
+<img src="./Screenshot_Desk-Timer_2023.png" alt="Screenshot_Desk-Timer_2023.png" width="808"/>
  
  # Desk-Timer
  A timer for the desktop.
