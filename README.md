@@ -1,4 +1,4 @@
- <div align="center"><img src="./Screenshot_Desk-Timer_2023.png" alt="Screenshot_Desk-Timer_2023.png" width="50%"><div>
+ <div align="center"><img src="./Screenshot_Desk-Timer_2023.png" alt="Screenshot_Desk-Timer_2023.png" width="50%"></div>
  
  # Desk-Timer
  A timer for the desktop.
